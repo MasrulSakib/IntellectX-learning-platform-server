@@ -11,14 +11,20 @@ app.get('/', (req, res) => {
     res.send('This is home server and it is running.....')
 })
 
-app.get('/category/:category', (req, res) => {
-    const category = parseInt(req.params.category);
-    const courseCategory = courses.filter(course => course.category === category)
-    res.send(courseCategory);
+app.get('/category/:category_id', (req, res) => {
+    const category = parseInt(req.params.category_id);
+    const coursecategory_id = courses.filter(course => course.category_id === category)
+    res.send(coursecategory_id);
 })
 
 app.get('/category', (req, res) => {
     res.send(courses);
+})
+
+app.get('/courses/:_id', (req, res) => {
+    const id = req.params._id;
+    const courseData = courses.find(course => course._id === id)
+    res.send(courseData);
 })
 
 app.listen(port, () => {

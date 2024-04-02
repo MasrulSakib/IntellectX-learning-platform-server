@@ -1,7 +1,7 @@
 [
     {
         "_id": "660c00e5a675d174c6431b00",
-        "category": 1,
+        "category_id": 1,
         "picture": "http://placehold.it/32x32",
         "course": "Sloan Blackburn",
         "title": "ONTAGENE",
@@ -9,7 +9,7 @@
     },
     {
         "_id": "660c00e510838aa302842c59",
-        "category": 2,
+        "category_id": 2,
         "picture": "http://placehold.it/32x32",
         "course": "Tara Spears",
         "title": "FANGOLD",
@@ -17,7 +17,7 @@
     },
     {
         "_id": "660c00e5ac43271e3e1f06b1",
-        "category": 3,
+        "category_id": 3,
         "picture": "http://placehold.it/32x32",
         "course": "Maude Little",
         "title": "GEEKETRON",
@@ -25,7 +25,7 @@
     },
     {
         "_id": "660c00e540e4c313e51e8bb1",
-        "category": 4,
+        "category_id": 4,
         "picture": "http://placehold.it/32x32",
         "course": "Kennedy Walter",
         "title": "RUGSTARS",
@@ -33,7 +33,7 @@
     },
     {
         "_id": "660c00e57134ee6a6d297e50",
-        "category": 5,
+        "category_id": 5,
         "picture": "http://placehold.it/32x32",
         "course": "Page Arnold",
         "title": "STOCKPOST",
@@ -41,7 +41,7 @@
     },
     {
         "_id": "660c00e5af6c2e6d8fa92552",
-        "category": 6,
+        "category_id": 6,
         "picture": "http://placehold.it/32x32",
         "course": "Snider Ryan",
         "title": "FROSNEX",
@@ -49,7 +49,7 @@
     },
     {
         "_id": "660c00e59ee287aab63b5ef1",
-        "category": 7,
+        "category_id": 7,
         "picture": "http://placehold.it/32x32",
         "course": "Bruce Salinas",
         "title": "URBANSHEE",
@@ -57,7 +57,7 @@
     },
     {
         "_id": "660c00e55314f7d052401419",
-        "category": 8,
+        "category_id": 8,
         "picture": "http://placehold.it/32x32",
         "course": "Sherry Shaw",
         "title": "PHARMEX",
@@ -65,7 +65,7 @@
     },
     {
         "_id": "660c00e5bfd1bb718f0928e9",
-        "category": 9,
+        "category_id": 9,
         "picture": "http://placehold.it/32x32",
         "course": "Gardner Mays",
         "title": "ECSTASIA",
