@@ -1,74 +1,138 @@
 [
     {
-        "_id": "660c00e5a675d174c6431b00",
-        "category_id": 1,
-        "picture": "http://placehold.it/32x32",
-        "course": "Sloan Blackburn",
-        "title": "ONTAGENE",
-        "details": "Aute velit et qui officia commodo ad enim. Labore dolore magna ut qui. Consectetur irure commodo ullamco pariatur sit fugiat tempor duis ex qui proident laboris dolor. Proident sunt cupidatat cupidatat fugiat laboris.\r\n"
-    },
-    {
-        "_id": "660c00e510838aa302842c59",
-        "category_id": 2,
-        "picture": "http://placehold.it/32x32",
-        "course": "Tara Spears",
-        "title": "FANGOLD",
-        "details": "Mollit Lorem nostrud minim aute et. Adipisicing sunt quis aliqua veniam quis dolor fugiat in non. Veniam eiusmod elit minim veniam sit cillum ad sit. Esse reprehenderit deserunt consequat mollit labore nostrud excepteur.\r\n"
-    },
-    {
-        "_id": "660c00e5ac43271e3e1f06b1",
-        "category_id": 3,
-        "picture": "http://placehold.it/32x32",
-        "course": "Maude Little",
-        "title": "GEEKETRON",
-        "details": "Ullamco voluptate nisi aliquip est nulla. Eiusmod ullamco sit exercitation sit mollit amet eu deserunt mollit amet quis incididunt pariatur exercitation. Consequat ullamco sint ut ullamco laborum exercitation magna fugiat est consectetur nisi. Qui commodo magna aliquip fugiat. Ipsum et elit exercitation Lorem ea minim ad. Exercitation amet culpa excepteur et labore sint voluptate occaecat.\r\n"
-    },
-    {
-        "_id": "660c00e540e4c313e51e8bb1",
-        "category_id": 4,
-        "picture": "http://placehold.it/32x32",
-        "course": "Kennedy Walter",
-        "title": "RUGSTARS",
-        "details": "Dolor ut in est laboris adipisicing aliqua pariatur deserunt nulla cillum exercitation sit. Excepteur non laboris excepteur minim excepteur labore ea sit tempor tempor dolor sit voluptate. Duis aute ea minim deserunt. Dolore est non mollit ex ex laboris mollit eiusmod eu. In sunt consequat laborum eu veniam nisi occaecat. Mollit consequat irure dolor laborum duis pariatur amet. Occaecat eiusmod non nisi labore.\r\n"
-    },
-    {
-        "_id": "660c00e57134ee6a6d297e50",
-        "category_id": 5,
-        "picture": "http://placehold.it/32x32",
-        "course": "Page Arnold",
-        "title": "STOCKPOST",
-        "details": "Minim sunt nisi aliquip anim labore officia reprehenderit in in minim officia. Laborum excepteur cillum sint labore dolore. Deserunt cillum laboris aliquip labore. Ipsum anim eu ad ex reprehenderit labore est pariatur excepteur eu anim culpa ex. Nisi incididunt est irure commodo aliquip sunt non ullamco. Reprehenderit occaecat in in voluptate.\r\n"
-    },
-    {
-        "_id": "660c00e5af6c2e6d8fa92552",
-        "category_id": 6,
-        "picture": "http://placehold.it/32x32",
-        "course": "Snider Ryan",
-        "title": "FROSNEX",
-        "details": "Eu anim culpa tempor id do. Incididunt tempor laboris commodo velit laborum veniam ex quis ipsum occaecat tempor aliqua aute cupidatat. Consectetur et duis officia incididunt laborum cillum consequat. Sunt mollit exercitation tempor cupidatat Lorem do incididunt proident ex exercitation in exercitation enim tempor.\r\n"
-    },
-    {
-        "_id": "660c00e59ee287aab63b5ef1",
+        "_id": "660c6c4843f61c6255370e73",
         "category_id": 7,
-        "picture": "http://placehold.it/32x32",
-        "course": "Bruce Salinas",
-        "title": "URBANSHEE",
-        "details": "Cupidatat fugiat sint nisi elit sunt magna et occaecat laboris. Dolor fugiat ea sit exercitation excepteur ipsum sint incididunt eu voluptate deserunt reprehenderit excepteur. Labore duis enim consectetur consequat.\r\n"
+        "picture": "https://www.creativeitinstitute.com/images/course/course_1662791772.jpg",
+        "course": "Web Development",
+        "title": "ZENTIX",
+        "details": "Quis anim in incididunt officia excepteur in id cupidatat cillum do consectetur laborum. Nostrud amet nulla in dolor dolore sint veniam. Sunt voluptate reprehenderit esse enim magna dolor. Esse ut excepteur anim commodo commodo deserunt enim mollit amet nulla irure est. Reprehenderit tempor aute anim quis esse fugiat laborum. Ullamco sit adipisicing qui fugiat ea ad. Ea ipsum anim minim amet fugiat amet officia cillum amet nostrud tempor.\r\n"
     },
     {
-        "_id": "660c00e55314f7d052401419",
-        "category_id": 8,
-        "picture": "http://placehold.it/32x32",
-        "course": "Sherry Shaw",
-        "title": "PHARMEX",
-        "details": "Anim tempor consectetur est incididunt ullamco exercitation velit dolore eu et nulla. Ex nulla sint in aliqua labore ullamco do ipsum sint adipisicing commodo sit do. Mollit irure commodo est laborum ad est cillum sint proident est fugiat ex sunt voluptate. Sit incididunt adipisicing voluptate commodo do veniam ad amet exercitation dolor sit ullamco pariatur irure. Exercitation ad sunt sunt sint occaecat dolor eiusmod aute reprehenderit laborum mollit enim mollit nostrud. Dolore proident ea irure aute consequat voluptate dolore sint.\r\n"
+        "_id": "660c6c4878791e6e8957423c",
+        "category_id": 2,
+        "picture": "https://kinsta.com/wp-content/uploads/2020/02/web-design-best-practices-1024x512.jpg",
+        "course": "Fundamental Course",
+        "title": "DYMI",
+        "details": "Velit ad eu laboris et adipisicing enim eu sit duis dolore excepteur. Aliqua excepteur proident sit sunt nulla laborum magna commodo. Incididunt exercitation labore ipsum mollit magna deserunt pariatur duis pariatur. Nulla laboris veniam reprehenderit sint consequat qui consectetur consectetur id ut excepteur. Ad aliqua consectetur anim laborum in incididunt veniam incididunt ipsum non ipsum fugiat voluptate sint. Laboris aliquip adipisicing pariatur labore sit sint minim adipisicing officia ex labore consequat exercitation. Nostrud aute mollit anim aliqua.\r\n"
     },
     {
-        "_id": "660c00e5bfd1bb718f0928e9",
-        "category_id": 9,
-        "picture": "http://placehold.it/32x32",
-        "course": "Gardner Mays",
-        "title": "ECSTASIA",
-        "details": "Reprehenderit ea sint ipsum aliquip aliquip ad non cupidatat incididunt adipisicing pariatur mollit nisi occaecat. Incididunt deserunt tempor magna ad elit mollit et sunt. Non excepteur fugiat non do sit veniam veniam nisi.\r\n"
+        "_id": "660c6c4804d1e199dc1964c6",
+        "category_id": 6,
+        "picture": "https://quicklearn.pk/assets/img/courses/2.jpg",
+        "course": "Full-Stack Development",
+        "title": "HYPLEX",
+        "details": "Consequat dolor proident amet do mollit magna minim est aliqua minim. Qui consequat eu nulla commodo minim. Laborum aute ipsum exercitation pariatur commodo nostrud sit pariatur nisi. Labore et adipisicing occaecat do pariatur do laborum id cillum reprehenderit esse exercitation. In est incididunt mollit proident consectetur magna commodo. Qui sunt incididunt cillum cillum cillum irure sint nisi qui qui velit deserunt nisi.\r\n"
+    },
+    {
+        "_id": "660c6c4879ab2c2dac223814",
+        "category_id": 4,
+        "picture": "https://bigdoorlearning.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-07-01-at-11.25.33-PM.jpeg",
+        "course": "Latest Course",
+        "title": "MARVANE",
+        "details": "Consectetur laboris adipisicing minim enim laboris mollit qui. Amet cillum sit labore ea incididunt minim in aliqua magna nulla et. Nostrud culpa culpa veniam nostrud id est. Nulla eiusmod enim qui in consequat mollit minim ex ut officia dolore fugiat. Veniam proident exercitation laborum excepteur esse irure ad dolore veniam laborum laborum fugiat. Esse in in cillum sint non pariatur nisi occaecat.\r\n"
+    },
+    {
+        "_id": "660c6c48003a4038604c54e8",
+        "category_id": 2,
+        "picture": "https://www.pcilearning.com/wp-content/uploads/2015/10/web_backend_2.jpg",
+        "course": "Back-End Development",
+        "title": "HYPLEX",
+        "details": "Sint nisi id incididunt consequat magna nostrud. Aliqua velit nulla ex ipsum consectetur labore sint eiusmod laborum. Anim deserunt sit culpa dolore adipisicing sit nostrud est ullamco. Magna cupidatat id aliqua consectetur tempor laborum irure eiusmod exercitation. Consequat nostrud est ex dolor ipsum veniam laborum quis.\r\n"
+    },
+    {
+        "_id": "660c6c4811ee4d0974191409",
+        "category_id": 7,
+        "picture": "https://d2x0t6n5jvjipg.cloudfront.net/uploads/images/cms_course/833ea4cc-de1d-4c60-997c-4bbbe35575db-1672921650.png",
+        "course": "Front-End Development",
+        "title": "GOLISTIC",
+        "details": "Duis tempor elit Lorem veniam aliqua pariatur id ex. Consequat deserunt in fugiat nulla ut sit ullamco ut exercitation sit amet est. Mollit aliquip culpa qui reprehenderit fugiat eiusmod excepteur officia et consequat non et id velit. Nulla aute et pariatur do incididunt eu cupidatat excepteur cillum quis.\r\n"
+    },
+    {
+        "_id": "660c6c488435db976ded320a",
+        "category_id": 7,
+        "picture": "https://www.xploreitcorp.com/wp-content/uploads/2022/01/19362653-900x450.jpg",
+        "course": "Upcoming courses",
+        "title": "PLASTO",
+        "details": "Ut officia culpa aute do. Irure sunt pariatur mollit ullamco nisi voluptate. Reprehenderit sunt commodo ea exercitation mollit ex nisi quis occaecat et. Deserunt proident sunt ad enim velit nostrud in sint qui. Quis do ut aliqua commodo laboris culpa nisi sit ea ex amet dolore anim. Sint laboris Lorem veniam sunt sit. Excepteur ullamco magna dolore qui est.\r\n"
+    },
+    {
+        "_id": "660c6c48a450afe8852ab8e5",
+        "category_id": 6,
+        "picture": "https://kinsta.com/wp-content/uploads/2020/02/web-design-best-practices-1024x512.jpg",
+        "course": "Fundamental Course",
+        "title": "PERMADYNE",
+        "details": "Tempor id exercitation laboris qui eiusmod nostrud qui aute pariatur Lorem laborum qui. Ad esse Lorem velit esse aliquip laboris. Ullamco qui est sunt incididunt do eu. Pariatur culpa quis tempor veniam occaecat non. Tempor do laborum fugiat labore culpa excepteur est. Aliquip nulla sint incididunt officia. Reprehenderit mollit laborum cupidatat eiusmod deserunt consequat nostrud cupidatat labore veniam sunt reprehenderit.\r\n"
+    },
+    {
+        "_id": "660c6c4893b4e753bcbe2307",
+        "category_id": 4,
+        "picture": "https://quicklearn.pk/assets/img/courses/2.jpg",
+        "course": "Full-Stack Development",
+        "title": "OPPORTECH",
+        "details": "Amet magna ea mollit tempor sint anim. Consectetur esse occaecat ex magna in cillum esse nisi consectetur fugiat occaecat. Laboris magna anim consequat consequat officia enim eu ea eu minim voluptate nisi eu. Eiusmod esse aliquip cupidatat in adipisicing aliqua est in aute fugiat labore nostrud anim non. Elit amet cillum proident quis fugiat deserunt nostrud Lorem do ad irure anim sunt. Sunt laboris adipisicing cupidatat exercitation dolor adipisicing commodo ad excepteur non fugiat aliqua magna nulla.\r\n"
+    },
+    {
+        "_id": "660c6c4838f2b6172fa461a5",
+        "category_id": 3,
+        "picture": "https://bigdoorlearning.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-07-01-at-11.25.33-PM.jpeg",
+        "course": "Latest Course",
+        "title": "MARQET",
+        "details": "Lorem sunt irure esse officia. Veniam nostrud enim eu qui aliquip pariatur aute in. Duis aliqua aute fugiat et in magna ea quis qui ad aliquip. Nisi deserunt in officia cillum magna excepteur officia cillum consectetur.\r\n"
+    },
+    {
+        "_id": "660c6c48b2dffbe02d3206c7",
+        "category_id": 7,
+        "picture": "https://www.pcilearning.com/wp-content/uploads/2015/10/web_backend_2.jpg",
+        "course": "Back-End Development",
+        "title": "XYLAR",
+        "details": "Nisi nostrud veniam ea anim enim et elit culpa ullamco sunt esse culpa exercitation. Occaecat consequat Lorem aliquip esse. Laborum consectetur laboris sit culpa eu velit laboris cillum ipsum adipisicing non officia quis.\r\n"
+    },
+    {
+        "_id": "660c6c48ef4b74dd1c162b68",
+        "category_id": 1,
+        "picture": "https://i.ytimg.com/vi/gjdBWv0zGb8/maxresdefault.jpg",
+        "course": "Upcoming courses",
+        "title": "INSURON",
+        "details": "Velit eiusmod enim enim ex sunt ea sint est labore incididunt ullamco consectetur aliquip. Excepteur enim ad commodo do. Proident ipsum veniam voluptate veniam nulla id qui adipisicing minim tempor esse do laboris deserunt. Veniam laborum sit irure dolore labore pariatur. Aliqua nostrud fugiat cupidatat eiusmod ipsum officia eiusmod ex.\r\n"
+    },
+    {
+        "_id": "660c6c487aee606cfec953d0",
+        "category_id": 2,
+        "picture": "https://d2x0t6n5jvjipg.cloudfront.net/uploads/images/cms_course/833ea4cc-de1d-4c60-997c-4bbbe35575db-1672921650.png",
+        "course": "Front-End Development",
+        "title": "OULU",
+        "details": "Excepteur tempor cillum aliqua tempor. Qui mollit Lorem incididunt in ea. Consequat cupidatat deserunt velit anim cupidatat qui labore nisi.\r\n"
+    },
+    {
+        "_id": "660c6c48ac6c4129645fcfb7",
+        "category_id": 5,
+        "picture": "https://www.xploreitcorp.com/wp-content/uploads/2022/01/19362653-900x450.jpg",
+        "course": "Upcoming courses",
+        "title": "BOVIS",
+        "details": "Duis dolore eiusmod minim labore laboris. Esse cupidatat proident Lorem Lorem est qui id sint ut consequat voluptate commodo dolore proident. Aliquip laborum laboris veniam velit anim consequat Lorem. Voluptate et ea sit excepteur consectetur quis sit nisi adipisicing. Dolore do id consequat nostrud consequat qui anim. Ipsum duis non aute commodo proident aute minim enim nostrud fugiat fugiat. Labore veniam reprehenderit adipisicing anim in minim sint tempor exercitation et aute.\r\n"
+    },
+    {
+        "_id": "660c6c48990733f8e430c0fc",
+        "category_id": 6,
+        "picture": "https://kinsta.com/wp-content/uploads/2020/02/web-design-best-practices-1024x512.jpg",
+        "course": "Fundamental Course",
+        "title": "MUSANPOLY",
+        "details": "Irure cillum eiusmod est id eu magna reprehenderit proident voluptate. Esse deserunt duis eiusmod eu deserunt. Tempor do id adipisicing esse esse exercitation elit in labore ad ut irure elit dolore.\r\n"
+    },
+    {
+        "_id": "660c6c489193c92e9cbbe479",
+        "category_id": 5,
+        "picture": "https://quicklearn.pk/assets/img/courses/2.jpg",
+        "course": "Full-Stack Development",
+        "title": "GEEKUS",
+        "details": "Ut do occaecat enim occaecat nostrud aute dolor irure amet est commodo quis commodo. Excepteur Lorem elit deserunt sit non elit elit ea laboris laborum voluptate duis dolore id. Adipisicing labore reprehenderit ipsum consequat sunt esse pariatur dolore culpa incididunt aliqua. Proident est pariatur laborum labore culpa dolor consectetur proident enim. Proident veniam id minim magna.\r\n"
+    },
+    {
+        "_id": "660c6c48c6257a6a1d50a994",
+        "category_id": 7,
+        "picture": "https://bigdoorlearning.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-07-01-at-11.25.33-PM.jpeg",
+        "course": "Latest Course",
+        "title": "OPTICOM",
+        "details": "Laborum eu mollit magna commodo anim eiusmod. Irure ullamco aliqua velit nisi laborum elit minim duis consequat labore quis Lorem aute. Consectetur non ex ullamco sit enim nisi excepteur eiusmod mollit. Eiusmod aliquip exercitation nulla ad exercitation anim laboris non adipisicing.\r\n"
     }
 ]
