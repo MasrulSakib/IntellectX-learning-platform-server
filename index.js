@@ -16,18 +16,25 @@ app.get('/categories-list', (req, res) => {
     res.send(categoryList);
 })
 
-app.get('/category/:category_id', (req, res) => {
-    const category = parseInt(req.params.category_id);
-    const coursecategory_id = courses.filter(course => course.category_id === category)
-    res.send(coursecategory_id);
+app.get('/category/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+
+    if (id === 0) {
+        res.send(courses);
+    }
+    else {
+        const courseCategory_id = courses.filter(course => course.category_id === id)
+        res.send(courseCategory_id);
+    }
+
 })
 
-app.get('/category', (req, res) => {
+app.get('/courses', (req, res) => {
     res.send(courses);
 })
 
-app.get('/courses/:_id', (req, res) => {
-    const id = req.params._id;
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
     const courseData = courses.find(course => course._id === id)
     res.send(courseData);
 })
